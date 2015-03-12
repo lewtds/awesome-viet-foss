@@ -29,6 +29,7 @@ To be written.
 ## Web framework
 
 * [Wade](https://github.com/gowade/wade) - Web development with isomorphic Go
+* [Xitrum](https://github.com/xitrum-framework/xitrum) - Async and clustered Scala web framework and HTTP(S) server
 
 ## Other
 
