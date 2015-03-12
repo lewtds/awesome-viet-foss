@@ -12,15 +12,15 @@ To be written.
 
 ## Input method
 
-* [NAKL](https://github.com/huyphan/NAKL) - A Vietnamese input keyboard for Mac OS
 * [InputHelper](https://github.com/xgenvn/InputHelper) - Popup a textinput field to input text using IM (ibus, scim) in Sublime Text 2 under Linux.
+* [NAKL](https://github.com/huyphan/NAKL) - A Vietnamese input keyboard for Mac OS
 
 ## Developer tool
 
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim) - fuzzy item finder for Vim
-* [ulquikit](https://github.com/cmpitg/ulquikit) - Making literate programming fun again.
 * [octotree](https://github.com/buunguyen/octotree) - Browser extensions to display GitHub code in tree format
 * [pacapt](https://github.com/icy/pacapt) - An Arch's pacman-like package manager for some Unices
+* [ulquikit](https://github.com/cmpitg/ulquikit) - Making literate programming fun again.
 
 ## Graphics
 
@@ -33,8 +33,8 @@ To be written.
 
 ## Other
 
-* [pytaku](https://github.com/nhanb/pytaku) - An online manga reader
 * [facy](https://github.com/huydx/facy) - command line power tool for facebook
+* [pytaku](https://github.com/nhanb/pytaku) - An online manga reader
 
 <hr>
 
