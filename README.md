@@ -35,6 +35,7 @@ To be written.
 ## Other
 
 * [facy](https://github.com/huydx/facy) - command line power tool for facebook
+* [ngxtop](https://github.com/lebinh/ngxtop) - real-time metrics for nginx server
 * [pytaku](https://github.com/nhanb/pytaku) - An online manga reader
 
 <hr>
