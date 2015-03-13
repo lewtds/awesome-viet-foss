@@ -31,6 +31,10 @@ To be written.
 * [Wade](https://github.com/gowade/wade) - Web development with isomorphic Go
 * [Xitrum](https://github.com/xitrum-framework/xitrum) - Async and clustered Scala web framework and HTTP(S) server
 
+## Disassembly/disassembler framework
+
+* [capstone-engine](https://github.com/aquynh/capstone) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
+
 ## Other
 
 * [facy](https://github.com/huydx/facy) - command line power tool for facebook
