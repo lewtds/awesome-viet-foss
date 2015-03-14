@@ -41,6 +41,8 @@ alphabetical order.
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components for iOS written in Swift
 * [Net](https://github.com/nghialv/Net) - Http Request wrapper written in Swift
 * [MYTableViewManager](https://github.com/nghialv/MYTableViewManager.git) - A new way to manage UITableView
+* [KNSemiModalViewController](https://github.com/kentnguyen/KNSemiModalViewController) - A semi-modal view with pushed-back stacked animation found in the beautiful Park Guides by National Geographic app
+* [KNPathTableViewController](https://github.com/kentnguyen/KNPathTableViewController) - UITableViewController with customizable overlay panel while scrolling, inspired by Path
 
 ### Android
 * [android-flat-button](https://github.com/hoang8f/android-flat-button) - FButton - a flat button library for Android
