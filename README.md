@@ -12,6 +12,7 @@ To be written.
 
 ## Input method
 
+* [avim] (https://github.com/1ec5/avim) - Vietnamese input method extension for Firefox, Thunderbird, etc.
 * [InputHelper](https://github.com/xgenvn/InputHelper) - Popup a textinput field to input text using IM (ibus, scim) in Sublime Text 2 under Linux.
 * [NAKL](https://github.com/huyphan/NAKL) - A Vietnamese input keyboard for Mac OS
 
