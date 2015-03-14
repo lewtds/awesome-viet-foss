@@ -34,8 +34,20 @@ alphabetical order.
 * [Wade](https://github.com/gowade/wade) - Web development with isomorphic Go
 * [Xitrum](https://github.com/xitrum-framework/xitrum) - Async and clustered Scala web framework and HTTP(S) server
 
-## Other
+## Mobile
 
+### IOS
+
+* [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components for iOS written in Swift
+* [Net](https://github.com/nghialv/Net) - Http Request wrapper written in Swift
+* [MYTableViewManager](https://github.com/nghialv/MYTableViewManager.git) - A new way to manage UITableView
+
+### Android
+* [android-flat-button](https://github.com/hoang8f/android-flat-button) - FButton - a flat button library for Android
+* [android-segmented-control](https://github.com/hoang8f/android-segmented-control) - ios7 UISegmentedControl for android
+
+## Other
+* [rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 * [facy](https://github.com/huydx/facy) - command line power tool for facebook
 * [pytaku](https://github.com/nhanb/pytaku) - An online manga reader
 
