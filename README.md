@@ -6,7 +6,9 @@ developer community.
 
 # Contributing
 
-To be written.
+Drop us a a pull request to add your favorite project.  But please try
+to follow the existing formatting and keep the projects sorted in
+alphabetical order.
 
 # Projects
 
@@ -37,6 +39,7 @@ To be written.
 * [facy](https://github.com/huydx/facy) - command line power tool for facebook
 * [pytaku](https://github.com/nhanb/pytaku) - An online manga reader
 
+<br>
 <hr>
 
 <a rel="license"
