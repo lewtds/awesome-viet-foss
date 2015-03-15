@@ -23,7 +23,6 @@ alphabetical order.
 * [capstone](https://github.com/aquynh/capstone) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim) - fuzzy item finder for Vim
 * [octotree](https://github.com/buunguyen/octotree) - Browser extensions to display GitHub code in tree format
-* [pacapt](https://github.com/icy/pacapt) - An Arch's pacman-like package manager for some Unices
 * [ulquikit](https://github.com/cmpitg/ulquikit) - Making literate programming fun again.
 
 ## Graphics
@@ -34,6 +33,7 @@ alphabetical order.
 
 * [htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
 * [ngxtop](https://github.com/lebinh/ngxtop) - real-time metrics for nginx server
+* [pacapt](https://github.com/icy/pacapt) - An Arch's pacman-like package manager for some Unices
 
 ## Web framework
 
