@@ -32,6 +32,7 @@ alphabetical order.
 
 ## System administration
 
+* [htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
 * [ngxtop](https://github.com/lebinh/ngxtop) - real-time metrics for nginx server
 
 ## Web framework
