@@ -23,6 +23,7 @@ alphabetical order.
 * [capstone](https://github.com/aquynh/capstone) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim) - fuzzy item finder for Vim
 * [octotree](https://github.com/buunguyen/octotree) - Browser extensions to display GitHub code in tree format
+* [Scrum2B](https://github.com/scrum2b/scrum2b) - Project Management tool, plugin of Redmine, supports Scrum/Agile practices in Software development
 * [ulquikit](https://github.com/cmpitg/ulquikit) - Making literate programming fun again.
 
 ## Graphics
