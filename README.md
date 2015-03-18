@@ -14,7 +14,7 @@ alphabetical order.
 
 ## Input method
 
-* [avim] (https://github.com/1ec5/avim) - Vietnamese input method extension for Firefox, Thunderbird, etc.
+* [avim](https://github.com/1ec5/avim) - Vietnamese input method extension for Firefox, Thunderbird, etc.
 * [InputHelper](https://github.com/xgenvn/InputHelper) - Popup a textinput field to input text using IM (ibus, scim) in Sublime Text 2 under Linux.
 * [NAKL](https://github.com/huyphan/NAKL) - A Vietnamese input keyboard for Mac OS
 
@@ -33,6 +33,7 @@ alphabetical order.
 ## System administration
 
 * [htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
+* [nginx-conf](https://github.com/lebinh/nginx-conf.git) - A collection of useful Nginx configuration snippets.
 * [ngxtop](https://github.com/lebinh/ngxtop) - real-time metrics for nginx server
 * [pacapt](https://github.com/icy/pacapt) - An Arch's pacman-like package manager for some Unices
 
